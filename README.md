@@ -1,7 +1,7 @@
 # Llama Blogging Platform
-Front-end [ [Repo](https://github.com/the-llamas/Front-End---Blog) / [Deployed](https://the-llamas.github.io/Front-End---Blog) ]
+Front-end [ [Repo](https://github.com/alexjcode/blog-client) / [Deployed](https://alexjcode.github.io/blog-client) ]
 
-Back-end [ [Repo](https://github.com/the-llamas/blog-api) / [Deployed](https://blog-api-back-end.herokuapp.com) ]
+Back-end [ [Repo](https://github.com/alexjcode/blog-api) / [Deployed](https://alexjcode-blog-api.herokuapp.com) ]
 ​
 ## Summary
 This is a blogging plaform for blogging about llamas!
